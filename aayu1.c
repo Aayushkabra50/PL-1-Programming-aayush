@@ -1,4 +1,4 @@
-aayu1.c
+aayu01.c
 
 /*
 Program (1) -> Write a program to make use of basic Input/Output functions using different data types.
