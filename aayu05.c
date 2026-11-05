@@ -1,4 +1,4 @@
-aayu5.c
+aayu05.c
 /*
 Program (5) -> Write a program to calculate the average of three numbers.
 Solution(1) -> Predefined Values
