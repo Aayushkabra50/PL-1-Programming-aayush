@@ -1,4 +1,4 @@
-aayu7.c
+aayu07.c
 /*
 Program (7) -> Write a C program to swap two numbers using a temporary variable.
 Solution(1) -> Pre Define Values
